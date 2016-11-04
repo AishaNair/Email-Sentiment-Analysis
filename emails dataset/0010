@@ -1,0 +1,121 @@
+From 1505741951716715086@xxx Sat Jul 04 05:23:46 +0000 2015
+X-GM-THRID: 1505741951716715086
+X-Gmail-Labels: Inbox
+Delivered-To: 15030142012@sicsr.ac.in
+Received: by 10.112.149.103 with SMTP id tz7csp396222lbb;
+        Fri, 3 Jul 2015 22:23:48 -0700 (PDT)
+X-Received: by 10.170.221.86 with SMTP id n83mr47860560ykf.7.1435987427475;
+        Fri, 03 Jul 2015 22:23:47 -0700 (PDT)
+Return-Path: <15030142+bncBCFN5DP27AARBYG33WWAKGQERGRQHPY@sicsr.ac.in>
+Received: from mail-yk0-f199.google.com (mail-yk0-f199.google.com. [209.85.160.199])
+        by mx.google.com with ESMTPS id l13si7838895ywe.89.2015.07.03.22.23.45
+        for <15030142012@sicsr.ac.in>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 03 Jul 2015 22:23:46 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.160.199 is neither permitted nor denied by domain of 15030142+bncBCFN5DP27AARBYG33WWAKGQERGRQHPY@sicsr.ac.in) client-ip=209.85.160.199;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 209.85.160.199 is neither permitted nor denied by domain of 15030142+bncBCFN5DP27AARBYG33WWAKGQERGRQHPY@sicsr.ac.in) smtp.mail=15030142+bncBCFN5DP27AARBYG33WWAKGQERGRQHPY@sicsr.ac.in
+Received: by ykdv136 with SMTP id v136sf11425907ykd.0
+        for <15030142012@sicsr.ac.in>; Fri, 03 Jul 2015 22:23:45 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type:x-original-sender:x-original-authentication-results
+         :precedence:mailing-list:list-id:x-spam-checked-in-group:list-post
+         :list-help:list-archive:list-unsubscribe;
+        bh=M68RQrmnHjomSpaitJqNXS/ya9sv+brgt5deqZdyhU4=;
+        b=JfLt7u32GLkyJWLSJMsOuYww6VMjsFEueE/oMtr/FG4U+tv/4jfW4UKZsd3XyPFc1s
+         JkKeLuOPJSH9OdHGNyvjPbJL6yjZJQjT93wmVu1pG0RlbzTv+pL1RO0s3lZGBnT2hWqV
+         /5wXpSMLOtLO8UFMsFD00iCwqE1Tz97NP3nUfssaG8qNdBRFYNVKYq1zQoe45EVIKpUS
+         F13iLtq4uXpIb8J/qeJB9RF3sMYNbnXQtpHMyNhjtBtTyPyA3+y/RPlBAk3Le7M66Fhy
+         vbxCledB9KDsIg+URK2OoQXfU7R4gFTrRXFd9Q8ssUqs2BiwnS7+mhbjSYNrKHo2X7ri
+         iFcw==
+X-Gm-Message-State: ALoCoQmynoQadAqyGJcW/ysmHGSr3SwtxL3mCt+6wtVh7x9XW8xP03zDOc5iPzA5wTR+s3BADuLo
+X-Received: by 10.129.40.201 with SMTP id o192mr615791ywo.30.1435987425071;
+        Fri, 03 Jul 2015 22:23:45 -0700 (PDT)
+X-BeenThere: 15030142@sicsr.ac.in
+Received: by 10.50.90.179 with SMTP id bx19ls1448258igb.1.gmail; Fri, 03 Jul
+ 2015 22:23:44 -0700 (PDT)
+X-Received: by 10.50.18.39 with SMTP id t7mr25884019igd.3.1435987424877;
+        Fri, 03 Jul 2015 22:23:44 -0700 (PDT)
+Received: from mail-ie0-f179.google.com (mail-ie0-f179.google.com. [209.85.223.179])
+        by mx.google.com with ESMTPS id q4si7136362igh.9.2015.07.03.22.23.44
+        for <15030142@sicsr.ac.in>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 03 Jul 2015 22:23:44 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.223.179 is neither permitted nor denied by domain of vidya.kulkarni@sicsr.ac.in) client-ip=209.85.223.179;
+Received: by iebmu5 with SMTP id mu5so86244758ieb.1
+        for <15030142@sicsr.ac.in>; Fri, 03 Jul 2015 22:23:44 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 10.42.48.9 with SMTP id q9mr23053648icf.21.1435987424699; Fri,
+ 03 Jul 2015 22:23:44 -0700 (PDT)
+Received: by 10.36.201.134 with HTTP; Fri, 3 Jul 2015 22:23:44 -0700 (PDT)
+Date: Sat, 4 Jul 2015 10:53:44 +0530
+Message-ID: <CADG-btMoyLvyRW1JSquA3Omv0d7FWCc3mPQkyQdS-7kOAaWQkA@mail.gmail.com>
+Subject: RDBMS lecture today at 11.45am in 404 instead of Maths.
+From: Vidya Kulkarni <vidya.kulkarni@sicsr.ac.in>
+To: MSc-CA 2015-2017 <15030142@sicsr.ac.in>
+Content-Type: multipart/alternative; boundary=90e6ba6146a05a0dec051a05e0e7
+X-Original-Sender: vidya.kulkarni@sicsr.ac.in
+X-Original-Authentication-Results: mx.google.com;       spf=neutral
+ (google.com: 209.85.223.179 is neither permitted nor denied by domain of
+ vidya.kulkarni@sicsr.ac.in) smtp.mail=vidya.kulkarni@sicsr.ac.in
+Precedence: list
+Mailing-list: list 15030142@sicsr.ac.in; contact 15030142+owners@sicsr.ac.in
+List-ID: <15030142.sicsr.ac.in>
+X-Spam-Checked-In-Group: 15030142@sicsr.ac.in
+X-Google-Group-Id: 1067065888943
+List-Post: <http://groups.google.com/a/sicsr.ac.in/group/15030142/post>, <mailto:15030142@sicsr.ac.in>
+List-Help: <http://support.google.com/a/sicsr.ac.in/bin/topic.py?topic=25838>, <mailto:15030142+help@sicsr.ac.in>
+List-Archive: <http://groups.google.com/a/sicsr.ac.in/group/15030142/>
+List-Unsubscribe: <mailto:googlegroups-manage+1067065888943+unsubscribe@googlegroups.com>,
+ <http://groups.google.com/a/sicsr.ac.in/group/15030142/subscribe>
+
+--90e6ba6146a05a0dec051a05e0e7
+Content-Type: text/plain; charset=UTF-8
+
+Dear All,
+
+This is to inform you that as Computational Mathematics by Manjusha madam
+is cancelled, Samaya madam will conduct RDBMS lecture at 11.45am in 404
+(4th floor)
+lab.
+
+Please take a note.
+
+-- 
+Mrs Kulkarni Vidya M
+MSc CA Co ordinator
+SICSR
+
+Phone: 020 25675601/2 Ext 128/129
+
+-- 
+
+
+*This email is governed by the Disclaimer Terms of  SIU which may be viewed 
+at* http://www.siu.edu.in/downloads/email-disclaimer.php
+
+--90e6ba6146a05a0dec051a05e0e7
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div>Dear All,<br><br></div>This is to inform yo=
+u that as Computational Mathematics by Manjusha madam is cancelled, Samaya =
+madam will conduct RDBMS lecture at 11.45am in 404 (4th floor)<br></div>lab=
+.<br><br></div>Please take a note.<br clear=3D"all"><div><div><div><div><br=
+>-- <br><div class=3D"gmail_signature">Mrs Kulkarni Vidya M<br>MSc CA Co or=
+dinator<br>SICSR<br><br>Phone: 020 25675601/2 Ext 128/129<br></div>
+</div></div></div></div></div>
+
+<br>
+<p><span style=3D"color:rgb(192,0,0);font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;"><span style=3D"color:blue;font-family:&quot;Arial&quot;,&=
+quot;sans-serif&quot;;font-size:7.5pt"><strong><em>This email is governed b=
+y the Disclaimer Terms of=C2=A0 SIU which may be viewed at</em></strong></s=
+pan><font color=3D"#000000"> </font><span style=3D"font-size:7.5pt"><a href=
+=3D"http://www.siu.edu.in/downloads/email-disclaimer.php" target=3D"_blank"=
+>http://www.siu.edu.in/<WBR>downloads/email-disclaimer.php</a></span></span=
+></p>
+--90e6ba6146a05a0dec051a05e0e7--
+

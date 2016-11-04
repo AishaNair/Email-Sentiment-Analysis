@@ -1,0 +1,43 @@
+From 1504944919963582511@xxx Thu Jun 25 10:15:17 +0000 2015
+X-GM-THRID: 1504944919963582511
+X-Gmail-Labels: Inbox,Important
+Delivered-To: 15030142012@sicsr.ac.in
+Received: by 10.112.149.103 with SMTP id tz7csp479615lbb;
+        Thu, 25 Jun 2015 03:15:18 -0700 (PDT)
+X-Received: by 10.194.58.69 with SMTP id o5mr79916381wjq.22.1435227317958;
+        Thu, 25 Jun 2015 03:15:17 -0700 (PDT)
+Return-Path: <circulation@siu.edu.in>
+Received: from kohainform.kohainform.f2.internal.cloudapp.net ([23.102.58.227])
+        by mx.google.com with ESMTP id fb4si7788554wib.102.2015.06.25.03.15.17
+        for <15030142012@sicsr.ac.in>;
+        Thu, 25 Jun 2015 03:15:17 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning circulation@siu.edu.in does not designate 23.102.58.227 as permitted sender) client-ip=23.102.58.227;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning circulation@siu.edu.in does not designate 23.102.58.227 as permitted sender) smtp.mail=circulation@siu.edu.in
+Received: from kohazebraserver.kohanewzebra.f1.internal.cloudapp.net (localhost [127.0.0.1])
+	by kohainform.kohainform.f2.internal.cloudapp.net (Postfix) with ESMTP id 71497C004E
+	for <15030142012@sicsr.ac.in>; Thu, 25 Jun 2015 15:45:16 +0530 (IST)
+Subject: Checkouts
+Charset: utf8
+Date: Thu, 25 Jun 2015 15:45:16 +0530
+Mime-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+To: 15030142012@sicsr.ac.in
+Content-Transfer-Encoding: quoted-printable
+From: circulation@siu.edu.in
+Message-Id: <20150625101516.71497C004E@kohainform.kohainform.f2.internal.cloudapp.net>
+
+Dear  Aishwarya Sathianarayanan Nair (15030142012),
+The following items have been checked out:
+
+----
+PYTHON IN A NUTSHELL:A DESKTOP QUICK REFERENCE by MARTELLI,ALEX
+Barcode: SICSR-B-14754
+Due Date: 2015-07-09 23:59:00
+----
+
+Thank you for visiting Library
+
+'This is an auto generated mail. Please do not reply to this mail. '=
+
+
